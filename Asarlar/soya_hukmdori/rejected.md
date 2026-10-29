@@ -1,18 +1,24 @@
 ---
 status: rejected
 work: soya_hukmdori
-updated: 2026-10-30
+updated: 2026-10-29
 ---
 
-# Soya Hukmdori (Cid asari) — Rad etilgan variantlar
+# Rad etilgan
 
-Hozircha rasman "rad etilgan" deb belgilangan variant yo'q. [[branch]] faylidagi ko'pchilik variant hali ochiq — faqat **BRANCH D** uchun yakuniy fikr qayd etilgan ("tashqi kichikroq dushman kerak, tashqi jamiyat hozircha kerak emas"), bu yerda "tashqi jamiyat" varianti amalda chetlashtirilgan.
+Qaytarib kiritilmaydi. Sababi bilan.
 
-Biror variant kanondan rasman chiqarilsa yoki bekor qilinsa, shu yerga ko'chiring:
-
-```
-## <Nom>
-- **Qayerdan:** branch.md / BRANCH X
-- **Nega rad etildi:** ...
-- **Sana:** YYYY-MM-DD
-```
+| G'oya | Sabab |
+|---|---|
+| Klonlash texnikasi (asosiy kanonda) | o'rniga stamina + regeneratsiya + o'rinbosarlar |
+| Tashqi jamiyat (hozircha) | faqat kichik maxluqlar qoldirilgan |
+| Cid — oddiy hokim yoki qarzdor | ilohiy maqom barqarorlik uchun kerak; alohida model sifatida `variantlar/qishloq_izolyatsiya.md` da |
+| Tabaqani keyin kiritish | tabaqalar boshidan mavjud |
+| Titan / biologik qurol / urush syujeti | rad etildi |
+| Eliksir o'g'irligi fitnasi | qo'shilmadi |
+| Telekinez, geokinez, soya, barer, elektr, golem, portal, qon kuchlari | yoqmadi |
+| Tank, Suvchi, tupurish/terlash kabi kuchlar | yoqmadi |
+| "ARIS" nomi | bekor |
+| Arabcha ismlar | yoqmadi |
+| 1 haftada aqldan ozish | juda tez |
+| Turn 250 dagi 6 ta qoida | foydalanuvchi o'zi yozmagan |

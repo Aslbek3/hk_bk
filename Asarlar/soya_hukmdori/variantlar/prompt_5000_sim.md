@@ -1,7 +1,7 @@
 ---
-status: proposal
+status: branch
 work: soya_hukmdori
-updated: 2026-10-30
+updated: 2026-10-29
 ---
 
 # 5000 Kishilik Jamiyat — AI Prompt

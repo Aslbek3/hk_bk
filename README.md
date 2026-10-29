@@ -1,26 +1,18 @@
-# HK_BK — Obsidian Eslatmalar Arxivi
+# hk_bk — badiiy asarlar ombori
 
-Telegram orqali yuklangan Obsidian eslatmalar to'plami. Badiiy asarlar
-(romanlar/konseptlar) uchun g'oya, kanon, tarmoqlangan variant va tahlil
-qoralamalarini saqlaydi.
+Obsidian eslatmalar arxivi. 4 ta mustaqil asar va umumiy g'oyalar katalogi.
 
-Hozircha 4 ta asar bor: **Soya Hukmdori (Cid)**, **Abadiyat Qafasi**,
-**Frederin**, **Free God**.
+Boshlash: [`00_index.md`](00_index.md) · Qoidalar: [`CONVENTIONS.md`](CONVENTIONS.md)
 
-## Qayerdan boshlash
+## Asarlar
+- [`soya_hukmdori/`](Asarlar/soya_hukmdori/kanon.md) — markaziy asar
+- [`abadiyat_qafasi/`](Asarlar/abadiyat_qafasi/kanon.md)
+- [`frederin/`](Asarlar/frederin/kanon.md)
+- [`free_god/`](Asarlar/free_god/kanon.md)
 
-- 📖 **Mazmunni qidirayapsizmi?** → [00_index.md](00_index.md)
-- ✍️ **Yangi fayl qo'shmoqchimisiz?** → [CONVENTIONS.md](CONVENTIONS.md) (nomlash, frontmatter, papka qoidalari)
+## Umumiy
+- [`_common/lego_blocks.md`](_common/lego_blocks.md)
+- [`_common/simulations_catalog.md`](_common/simulations_catalog.md)
+- [`_common/universe.md`](_common/universe.md)
 
-## Tuzilma
-
-```
-Asarlar/<asar>/kanon.md | branch.md | rejected.md | variantlar/ | tahlil/
-_common/      — bir nechta asarga baravar tegishli g'oyalar
-_arxiv/       — xom suhbat matni va JSON eksportlar (dalil, o'qish uchun emas)
-```
-
-Har bir asar fayli boshida `status` (canon/branch/rejected/proposal/analysis),
-`work` (asar nomi) va `updated` maydonlari bo'lgan frontmatter bor — bu
-Obsidian Dataview orqali "barcha kanon qoidalar" kabi ro'yxatlarni avtomatik
-chiqarish imkonini beradi.
+Xom suhbat tarixi va JSON eksportlar — `_arxiv/`.
