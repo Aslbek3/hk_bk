@@ -1,3 +1,9 @@
+---
+status: analysis
+work: soya_hukmdori
+updated: 2026-10-30
+---
+
 # "Soya Hukmdori" (Cid Asari) va Simulyatsiyalar Koinotining Chuqur Tahlili
 
 Ushbu tahliliy hujjat "Soya Hukmdori (Cid asari)", "5,000 Kishilik Simulyatsiya", "Abadiyat Qafasi (Jackson)", "Frederin" va ularga bog'liq barcha "Lego bloklari" asosida tayyorlangan fundamental adabiy, psixologik va sotsiologik ekspertizadir.

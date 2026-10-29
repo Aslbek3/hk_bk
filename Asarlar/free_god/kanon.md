@@ -1,3 +1,9 @@
+---
+status: canon
+work: free_god
+updated: 2026-10-30
+---
+
 # Free God (Erkin Xudo asari)
 
 **Asosiy g'oya:** O'zi yaratgan dunyoga zerikishdan tushgan Xudoning sarguzashtlari va o'yinqaroqligi.

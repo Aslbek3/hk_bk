@@ -1,3 +1,9 @@
+---
+status: archive
+work: umumiy
+updated: 2026-10-30
+---
+
 # 100-200 Turnlar Tahlili va Lego Bloklari
 
 Suhbatning 100 dan 200 gacha bo'lgan qadamlarida asosan **Psixologik Sindirish**, **Yangi Qadriyatlar Yaratish (Normani teskari aylantirish)** va **Logistik Muammolarni Hal Qilish (5000 kishilik jamiyat)** kabi yirik mexanikalar yaratilgan.

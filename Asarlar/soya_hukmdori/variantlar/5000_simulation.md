@@ -1,3 +1,9 @@
+---
+status: proposal
+work: soya_hukmdori
+updated: 2026-10-30
+---
+
 # 5,000 Kishilik Simulyatsiya (Texnologik Antiutopiya)
 
 Ushbu simulyatsiya modeli insonlarning mutlaq manqurtlashgan, texnologik va ijtimoiy to'liq boshqariladigan yirik sanoat-zavod tipidagi jamiyatini aks ettiradi. Bu olamda Cid nafaqat rahbar, balki "biologik va psixologik markaz" hisoblanadi.

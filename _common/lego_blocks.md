@@ -1,3 +1,9 @@
+---
+status: common
+work: umumiy
+updated: 2026-10-30
+---
+
 # Lego Bloklari (Kombinatsiyalar uchun Mustaqil G'oyalar Katalogi)
 
 Ushbu katalogdagi g'oyalar mutlaqo mustaqil. Ularni xuddi LEGO detallari kabi xohlagan asarga (Sci-Fi, O'rta Asr, Antiutopiya, Isekai) olib kirib, yangi sotsiologik tajribalar va syujetlar yaratish mumkin.

@@ -1,3 +1,9 @@
+---
+status: archive
+work: umumiy
+updated: 2026-10-30
+---
+
 ### Turn 1
 Xullas bitta asar bor edi shuni tahlil qilib qayta yozish kerak, qoralamasi bor
 

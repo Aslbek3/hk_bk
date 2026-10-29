@@ -1,3 +1,9 @@
+---
+status: archive
+work: umumiy
+updated: 2026-10-30
+---
+
 # "9 Great Book" haqidagi suhbatlar tarixi
 
 Men barcha chat xotiralarini (.json va .html) chuqur tahlil qildim. Quyida **"9 great book"** yoki **"9 ta buyuk kitob"** bilan bog'liq topilgan BARCHA suhbatlarning to'liq va aynan qanday yozilganligi (xronologik tartibda) keltirilgan. Buni o'zingiz o'qib tahlil qilib ko'rishingiz mumkin:

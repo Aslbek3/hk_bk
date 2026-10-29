@@ -1,3 +1,9 @@
+---
+status: archive
+work: umumiy
+updated: 2026-10-30
+---
+
 # 100-307 Turnlar: 100% To'liq G'oyalar va Mikro-Lego Bloklari Katalogi
 
 Suhbatning ushbu (100-307) qismida kiritilgan **barcha** psixologik, sotsiologik va maishiy g'oyalar to'liq tahlil qilinib, quyidagi katta bloklarga ajratildi. Har bir g'oya o'zining tushuntirishi va misol stsenariysi bilan berilgan.

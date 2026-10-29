@@ -1,3 +1,9 @@
+---
+status: canon
+work: abadiyat_qafasi
+updated: 2026-10-30
+---
+
 # Abadiyat Qafasi (Ota Qo'rg'oni / Jackson asari)
 
 **Asosiy g'oya:** 1 erkakli sivilizatsiya, yopiq oroldagi evolyutsiya va yangi insoniyatning shakllanishi.

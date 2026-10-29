@@ -1,3 +1,9 @@
+---
+status: archive
+work: umumiy
+updated: 2026-10-30
+---
+
 ### Turn 1
 **USER:** Xullas bitta asar bor edi shuni tahlil qilib qayta yozish kerak, qoralamasi bor
 Yaxshi, yordam beraman. O'sha qoralamani shu yerga yuboring.

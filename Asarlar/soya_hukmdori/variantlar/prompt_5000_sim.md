@@ -1,3 +1,11 @@
+---
+status: proposal
+work: soya_hukmdori
+updated: 2026-10-30
+---
+
+# 5000 Kishilik Jamiyat — AI Prompt
+
 Senga hozir "5000 kishilik jamiyat" deb nomlangan, o'ta og'ir psixologik antiutopiya (dystopia) asarining mutlaq qoidalarini taqdim etaman. Sen ushbu dunyoni tahlil qilib, shu qoidalar asosida syujetlar va holatlar yozishing kerak bo'ladi. Hissiyotga berilma, faqat ko'rsatilgan mantiq va qoidalarni qabul qil.
 
 **ASARNING ASOSIY MANTIG'I VA DUNYOSI:**

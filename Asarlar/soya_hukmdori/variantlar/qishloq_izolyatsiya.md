@@ -1,3 +1,9 @@
+---
+status: proposal
+work: soya_hukmdori
+updated: 2026-10-30
+---
+
 # Izolyatsiya Qilingan Oddiy Qishloq (Behind + Cheating)
 
 Ushbu simulyatsiya texnologiyalarsiz, yopiq (mikro-makon) qishloqda amalga oshirilgan tajriba hisoblanadi. Bu yerda ijtimoiy normalar buzilishi juda yashirin, maishiy va ehtiyotkorlik bilan (behind) sodir bo'ladi. Erkaklar mutlaqo bexabar, sodda qilib ko'rsatiladi.

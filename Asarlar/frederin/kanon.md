@@ -1,3 +1,9 @@
+---
+status: canon
+work: frederin
+updated: 2026-10-30
+---
+
 # Frederin (Qirollik Asari)
 
 **Asosiy g'oya:** Jamiyatning quyi qismidan chiqqan yigitning ayollar ("Royal" qatlami) yordamida yuqoriga chiqishi va davlatni boshqarishi.

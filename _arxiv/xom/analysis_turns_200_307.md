@@ -1,3 +1,9 @@
+---
+status: archive
+work: umumiy
+updated: 2026-10-30
+---
+
 # 200-307 Turnlar Tahlili va Lego Bloklari
 
 Ushbu so'nggi yuzlikda (200 dan 307 gacha bo'lgan qadamlarda) suhbat ikkita yirik va butunlay farq qiluvchi yo'nalishga bo'lingan: **Texnologik Diktatura (Makro daraja)** va **Yashirin Maishiy Qishloq (Mikro daraja)**.

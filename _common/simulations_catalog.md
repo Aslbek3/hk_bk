@@ -1,3 +1,9 @@
+---
+status: common
+work: umumiy
+updated: 2026-10-30
+---
+
 # Jamiyat va Siyosat Simulyatsiyalari Katalogi (Lego Bloklari)
 
 Ushbu hujjatda oldingi suhbatlar davomida yaratilgan barcha mustaqil ijtimoiy tajribalar va parallel olamlar (simulyatsiyalar) jamlangan. Har bir model jamiyatning alohida bir qirrasini o'rganish uchun yaratilgan "Lego bloki" hisoblanadi.
